@@ -1,4 +1,4 @@
-const fetch = require('node-fetch');
+const fetch = import('node-fetch');
 
 const api = {
   key: '0c5429a0280f3841c867a3f9e8e3b708',
